@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zd_url">https://alphacreditsupport.zendesk.com</string>
+    <string name="zd_appid">38667c2fc04098978c832239275018d96f912513a11d2512</string>
+    <string name="zd_oauth">mobile_sdk_client_1e7fae1747f94dd83f41</string>
+
+    <string name="zopim_account_id">replace_me_chat_account_id</string>
+</resources>

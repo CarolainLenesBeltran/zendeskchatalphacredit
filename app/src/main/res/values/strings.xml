@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatTest</string>
+
+
+    <!--   Push   -->
+    <string name="push_error_device_not_compatible">Your device doesn\'t support push notifications</string>
+</resources>
