@@ -4,4 +4,5 @@
 
     <!--   Push   -->
     <string name="push_error_device_not_compatible">Your device doesn\'t support push notifications</string>
+    <string name="push_notification_fallback_title">Someone replied to your ticket</string>
 </resources>
